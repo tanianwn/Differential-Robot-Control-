@@ -7,4 +7,4 @@ Link to a demostrative Video: https://youtu.be/CFgagQNbed0?si=rC5L3r2qN9zabIYG
 
 ![Example1](Example1.png)
 ![Example2](Example2.png)
-![Example3](App_inventor.png)
+![Example3](app_inventor.png)
