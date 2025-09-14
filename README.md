@@ -4,3 +4,6 @@ Differential drive mobile robot using Vivado and VHDL for low-level control, int
 
 
 Link to a demostrative Video: https://youtu.be/CFgagQNbed0?si=rC5L3r2qN9zabIYG
+
+![Example1](Example1.png)
+![Example2](Example2.png)
